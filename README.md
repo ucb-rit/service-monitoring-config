@@ -1,8 +1,10 @@
 service-monitoring-config
 =========================
 
-Configuration for the tool(s) that perform automated monitoring
-of RIT services.
+Configuration for the tool(s) that perform automated monitoring of:
+
+* RIT's network-accessible services
+* Host resources (memory, disk ...) associated with those services
 
 Our convention is to use different branches within this repository
 to manage configuration for different automated monitoring tools
