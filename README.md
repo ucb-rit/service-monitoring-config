@@ -16,6 +16,10 @@ to manage configuration for different automated monitoring tools
 We do this to accommodate service evolution and/or multiple deployed
 instances of automated monitoring hosts.
 
-Current branches:
+Current directories (one per monitoring technology):
 
-* nagios35 - Configuration for Nagios Core version 3.5.x
+* nagios - Monitoring configuration using Nagios Core
+
+Current branches (one per major version of each technology):
+
+* nagios35 - Monitoring configuration using Nagios Core version 3.5.x
